@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:36BCF7,100:9B59B6&text=Hi%20👋,%20I'm%20Shivraj&fontColor=ffffff&fontSize=50&fontAlignY=35" alt="header"/>
 </p>
 
-<!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👨‍💻+Fullstack+Developer;🚀+Backend+Heavy+Engineer;🌱+Always+Learning+%26+Building;🔥+Open+Source+Contributor" alt="typing"/>
-</p>
+
 
 ---
 
