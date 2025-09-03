@@ -1,26 +1,65 @@
-<h1 align="center">Hi 👋, I'm Shivraj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **Tale Bridge**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I have completed [Yappin](https://yappin-crog.onrender.com/)
-
-- 🤝 My projects [Movie-Drift](https://shivraj000.github.io/MovieDrift/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Shivraj000](https://github.com/Shivraj000)
-
-- 💬 Ask me about **react , node , etc**
-
-- 📫 How to reach me **https://www.linkedin.com/in/shivraj-9282bb250/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/shivraj000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivraj000" height="30" width="40" /></a>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:36BCF7,100:9B59B6&text=Hi%20👋,%20I'm%20Shivraj&fontColor=ffffff&fontSize=50&fontAlignY=35" alt="header"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👨‍💻+Fullstack+Developer;🚀+Backend+Heavy+Engineer;🌱+Always+Learning+%26+Building;🔥+Open+Source+Contributor" alt="typing"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivraj000&show_icons=true&locale=en&layout=compact" alt="shivraj000" /></p>
+---
+
+## ⚡ About Me  
+- 🎓 B.Tech IT ’26 | NIET  
+- 💡 Exploring **Node.js, C++, AI, scalable systems**  
+- 🛠️ Building: *MERN apps, Qt GUIs, Spring Boot APIs*  
+- 🌍 Aiming for **FAANG / top product companies**  
+
+- 🔭 I’m currently working on **Tale Bridge**  
+- 🌱 I’m currently learning **Next.js**  
+- ✅ Built: [Yappin](https://yappin-crog.onrender.com/) · [Movie-Drift](https://shivraj000.github.io/MovieDrift/)  
+- 👨‍💻 All projects: **[github.com/Shivraj000](https://github.com/Shivraj000)**  
+- 💬 Ask me about **React, Node, etc.**  
+- 📫 **[LinkedIn](https://www.linkedin.com/in/shivraj-9282bb250/)**  
+
+---
+
+## 🧰 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,next,nodejs,express,mongodb,mysql,redis,tailwind,bootstrap,git,github,vscode,postman,docker,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivraj000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Shivraj000&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivraj000&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+<p align="center">
+  <a href="https://yappin-crog.onrender.com/"><img src="https://img.shields.io/badge/Yappin-Live-36BCF7?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://shivraj000.github.io/MovieDrift/"><img src="https://img.shields.io/badge/MovieDrift-Open-9B59B6?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+## 🤝 Connect with Me  
+<p align="center">
+  <a href="mailto:shivraj.yourmail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/shivraj-9282bb250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Shivraj000"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:9B59B6,100:36BCF7&height=120&section=footer" />
+</p>
